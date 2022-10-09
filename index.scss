@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0rem;
+    padding :0rem
+
+}
+$mainFont:'Roboto', sans-serif ;
+$secondaryFont :'Kaushan Script', cursive;
+$mainColor :#333333;
+$btnColor : #ae2012;
+
+body {
+    background-color: #333;
+    font-size: 14px;
+}
+.container {
+    max-width: 1300px;
+    min-height: 100vh;
+    margin: 0rem auto;
+    background-color: #fff;
+   
+}
+
